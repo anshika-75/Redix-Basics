@@ -22,6 +22,9 @@ This project demonstrates the **basic usage of Redis** in a Node.js environment.
 - Handling cache misses and invalidation
 - JSON file data simulation for testing
 
+
+https://github.com/anshika-75/Redix-Basics
+
 ## 🛠 Setup Instructions
 
 1. **Clone the repository**
